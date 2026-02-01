@@ -78,6 +78,8 @@ The objective is to evaluate vendor and brand performance, identify profitabilit
 - `data/processed/` – Final dataset used for visualization
 - `powerbi/` – Power BI dashboard file
 - `presentation/` – Business presentation deck
+- `src/` - run_pipeline.py
+  
 
 ---
 
@@ -105,3 +107,7 @@ seaborn
 - Vendor scorecard system
 - Predictive inventory risk modeling
 - Scenario-based pricing simulations
+
+---
+![Power BI Vendor Performance Dashboard](powerbi-dashboard/vendor_performance_dashboard_page-0001.jpg)
+
